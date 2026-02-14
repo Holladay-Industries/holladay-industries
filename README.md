@@ -4,8 +4,7 @@ I'm a student at the University of North Carolina in Wilmington (UNCW). I am pur
 
 
 
-<img src="./images/linux_mint_icon.svg" alt="Linux Mint logo" width="100"/> 
-<img src="./images/linux_tux.svg" alt="Linux Mint logo" width="100"/>
+<img src="./images/linux_mint_icon.svg" alt="Linux Mint logo" width="100"/> <img src="./images/linux_tux.svg" alt="Linux Mint logo" width="100"/>
 
 #
 
