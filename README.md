@@ -4,7 +4,7 @@ I'm a student at the University of North Carolina in Wilmington (UNCW). I am pur
 
 
 
-<img src="./images/linux_mint_icon.svg" alt="Linux Mint logo" width="100"/> <img src="./images/linux_tux.svg" alt="Tux, the Linux mascot" width="100"/> <img src="./images/git.svg" alt="Git logo" width="100"/> <img src="./images/terminal.png" alt="Linux terminal icon" width="100"/>
+<img src="./images/linux_mint_icon.svg" alt="Linux Mint logo" width="70"/> <img src="./images/linux_tux.svg" alt="Tux, the Linux mascot" width="70"/> <img src="./images/git.svg" alt="Git logo" width="70"/> <img src="./images/terminal.png" alt="Linux terminal icon" width="70"/>
 
 #
 
